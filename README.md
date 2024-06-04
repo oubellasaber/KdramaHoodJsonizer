@@ -18,7 +18,7 @@
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/KdramaHoodJsonizer.git
+    git clone https://github.com/oubellasaber/KdramaHoodJsonizer
     ```
 
 2. Install the required NuGet packages:
